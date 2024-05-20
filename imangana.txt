@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Profile Page</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="its all about me.">
+    <meta name="keywords" content="Hospitality, Customer service, ">
+    <meta name="author" content="H. M. Imangana Ruvinari">
+</head>
+
+<body> <center> 
+	
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="amali.html">Amali</a>
+        <a href="thilini.html">Thilini</a>
+    </nav>
+    <div id="container">
+        <table border="5px">
+            <tr>
+                <td width="270px" style = "background-color:#00215E ">
+                    <div class="left"> <p>
+                        <div class="profile-pic">
+						<center>
+                            <img src="imangana1.jpeg" "width="250" height="250">
+                            
+                            
+                           
+							</center>
+                        </div>
+                        <br>
+                        <h3 style= "color:white;"> About Me:</h3>
+                     
+                        
+                        
+                        
+                        <ul style= "color:white;">
+                            <li><strong>Email:</strong> <i><a href="mailto:imangana1128@gmail.com"
+style="text-decoration: none;color:blue">imangana1128@gmail.com</a> </i></li>
+                            <li><b>Contact:</b> +81 7076452090 </li>
+                            <li><strong>Address: </strong>
+                                <address style="display: inline;">Kyoto, Japan</address> 
+            		       	<li> <b> Nationality:</b> Sri Lankan </li>
+                        
+                        </ul>
+               
+                    <br>
+                        
+                       
+                        <hr>
+                       <br>
+                        <h3 style= "color:white;"> I can speak: </h3>
+                      
+                 <ul style= "color:white;">
+                            <li>English: <progress max="100" value="95"> 95%
+                             </progress></li>
+                            <li>Hindi: <progress max="100" value="70"> 70% </progress></li>
+                            <li>Greek: <progress max="100" value="25"> 25% </progress></li>
+                            
+                            <li>Japanese: <progress max="100" value="10"> 10% </progress></li>
+                     <br>
+                     </ul>
+                     <hr>
+                     <br>
+                     <h3 style= "color:white;"> I am good at:</h3>
+              
+                     
+                        <ul style= "color:white;">
+                            <li>Team Work</li>
+                            <li>Problem solving</li>
+                            <li>Multitasking</li>
+                            <li>Friendly Approchability</li>
+                            <li>Service-focused</li>
+                            
+                         </ul>
+                        <br>
+                    
+			<hr>
+            
+                        <h3 style= "color:white;">My Favorites:</h3>
+                        
+                      
+                       <br>
+                        
+                        <ul style= "color:white;">
+                        
+                         
+                            <li>Song </li>
+                            <br> <br>
+			<audio controls>
+			<source src="imangana2.mp3" width="15px" height="5px"> 				</audio>
+                        <br> <br>
+                            <li>Movie</li>
+                  <br> <br>
+                        <iframe width="200" height="180" src="https://www.youtube.com/embed/73_1biulkYk?si=288bTkhnwGZeralI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <br> <br>
+                        
+                        <li> TV Series </li>
+                        <br> <br>
+                        <iframe width="200" height="180"src="https://www.youtube.com/embed/KPLWWIOCOOQ?si=VqHRVkvwn2FW9O-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                         <br> <br>
+                         <li> Place </li>
+                        
+                 <br> <br>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31736.179109064342!2d80.11903165!3d6.12768935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae177fbcae7226d%3A0x373eeb50aad15308!2sHikkaduwa%2C%20Sri%20Lanka!5e0!3m2!1sen!2sjp!4v1715948709141!5m2!1sen!2sjp" width="200" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <br><br>
+                        <li> Book </li>
+                        <br> <br>
+                        <iframe src="https://m.media-amazon.com/images/I/71gWZmBShbL._SL1200_.jpg" width="250" height="400;"></iframe>
+                        
+                        <br>
+                       
+                      </ul>
+                        
+                          
+                                     
+           <td width="700px" style = "background-color:#FFF7FC ">
+		   
+                    <div class="right">
+                        <h1 style= "color:#00215E;"> &nbsp; I M A N G A N A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R U V I N A R I </h1>
+                        
+                        <p style= "color:#00215E;"><b> &nbsp; Highly skilled Guest Relations Manager with over 5 years of experience in delivering exceptional customer service within the hospitality industry Proficient in managing guest inquiries, resolving complaints, and ensuring a positive guest experience. Adept at leading and training a team of front-line staff, implementing service improvement strategies, and maintaining high standards of guest satisfaction. Strong communicator with excellent problem-solving abilities and a proven track record of fostering guest loyalty and repeat business. Proactive, detail-oriented, and dedicated to enhancing the overall guest experience..</p></b>
+                        
+                        
+                        
+
+                        <div class="content">
+                            <h3 style="background-color:#00215E; color:white;font-size:22px;"> &nbsp; My expertise:</h3>
+
+                            <h4 style= "color:#00215E;">&nbsp; Master's Degree</h4>
+                            
+                            <h5 style= "color:#00215E;">
+                              &nbsp; The Kyoto College of Graduate Studies for Informatics / Kyoto, Japan / October, 2022 - Present</h5>
+                             
+                           
+                            <span style= "color:#00215E;">
+                            &nbsp; - IT Tourism </span>
+                            
+
+                            <br><br><br>
+
+                            <h4 style= "color:#00215E;">
+                             &nbsp; Bacholor's Degree</h4>
+                            <h5 style= "color:#00215E;">
+                             &nbsp; University of Cyprus
+                            2015-2019</h5>
+                            
+                            <span style= "color:#00215E;">
+                            &nbsp; - Travel and tourism Management</span>
+                         
+
+                            <br> <br><br>
+                            
+                            <h4 style= "color:#00215E;">
+                             &nbsp; Diploma</h4>
+                            <h5 style= "color:#00215E;">
+                            &nbsp; ESOFT Metro Campus / 2013-2015</h5>
+                           
+                            <span style= "color:#00215E;">
+                            &nbsp; - Higher Diploma in Hotel Management</span> <br>
+                            
+                            <span style= "color:#00215E;">
+                            &nbsp; - Advanced Diploma in IT</span>
+                            
+                            <br> <br><br>
+
+                        </div>
+                        
+                        <div class="content">
+                            <h3 style="background-color:#00215E; color:white;font-size:22px;"> &nbsp; I am a Pro:</h3>
+
+                            <h4 style= "color:#00215E;">
+                            &nbsp; Guest Relations Manager</h4>
+                            
+                            <h5 style= "color:#00215E;">
+                            &nbsp; Cinnamon Hotels and Resorts, Maldives</h5>
+                            
+                            <br> 
+                            <h4 style= "color:#00215E;">
+                            &nbsp; Guest Relations Executive</h4>
+                            
+                            
+                            <h5 style= "color:#00215E;">
+                            &nbsp; Shangrila Hotel, Colombo </h5>
+                            <br>
+                            <h4 style= "color:#00215E;">
+                             &nbsp; Front Office Executive</h4>
+                            <h5 style= "color:#00215E;">
+                            &nbsp; Aitkens Spence Hotels, India </h5>
+                           
+                            <br> 
+
+                            <h4 style= "color:#00215E;">
+                            &nbsp; Internship</h4>
+                            <h5 style= "color:#00215E;">
+                             &nbsp; Hilton Hotel, Cyprus </h5>
+                          
+                        </div>
+
+                        <br>
+                        
+                        
+                         <div class="content">
+                            <h3 style="background-color:#00215E; color:white;font-size:22px;"> &nbsp; My Bucket List </h3>
+						<ul>
+                        <h3 style= "color:#00215E;">
+                       Scuba Diving </p><br> 
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUw8CrWlN6OUqWUFt8PNT5RIj1rDNkPPkHMvVHyR4Y0Q&s" width="300" height="300">
+                         <h3 style= "color:#00215E;">
+                        Bungee jumping </p><br> 
+                        <img src="https://scontent-itm1-1.xx.fbcdn.net/v/t1.6435-9/96867525_2799437933609394_863577537924562944_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=S2iS45bsrpEQ7kNvgEc5yY0&_nc_ht=scontent-itm1-1.xx&oh=00_AYB17dvOtqsRBNf370D3D5heolACAVgUoRVkMFHklR3Hiw&oe=667238A8"  width="300" height="300">
+                        
+                          <h3 style= "color:#00215E;">
+                        Sky Diving </p><br> 
+                        <img src="https://scontent-itm1-1.xx.fbcdn.net/v/t1.6435-9/97082455_2799437940276060_8029312270334951424_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SsE3Iv8SKbgQ7kNvgFA_M63&_nc_ht=scontent-itm1-1.xx&oh=00_AYADOUCsOwDO37474At4X2oymzgfYfLOF-aWJhb2cCsZcg&oe=66722EB5" width="300" height="300">
+                            </div>
+                            
+                           
+                           
+                           
+              
+                    <footer><small><strong>
+                    <ul>
+                    
+                    		<p style= "color:#00215E;"> This website is copyrighted &copy; M22W7291</p>
+                        
+                      </ul>
+                   </strong></small></footer>
+                    
+                   
+					</center> </body> 
+					</html>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Profile Page</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is all about my biography.">
+    <meta name="keywords" content="SriLanka, Health Care Sector, ">
+    <meta name="author" content="Yapa Mudiyanselage Sangarandeniya Walawwe Thilini Kaushalaya Jayasekara">
+</head>
+
+<body> <center> 
+	 <nav>
+        <a href="index.html">Home</a>
+        <a href="imangana.html">Imangana</a>
+        <a href="amali.html">Amali</a>
+    </nav>
+    <div id="container">
+        <table border="5px">
+            <tr>
+                <td width="270px" style = "background-color:#AAD7D9  ">
+                    <div class="left"> <p>
+                        <div class="profile-pic">
+						<center>
+                            <img src="thilini1.jpg" width="250px" height="250px" />
+							</center>
+                        </div>
+                        <h3>Contacts:</h3>
+                        <ul>
+                            <li><strong>Email:</strong> <i><a href="Thilinisagarandeniya@gmail.com"
+style="text-decoration: none;color:black">thilinisagarandeniya@gmail.com</a> </i></li>
+                            <li><b>Contact:</b> +81 8062374072</li>
+                            <li><strong>Address: </strong>
+                                <address style="display: inline;">Higashiyamamaritamachi,Sakyo-ku, Kyoto, Japan</address>
+                         </ul>
+                     
+                        <hr>
+                        <h3>Skill Highlights:</h3>
+                        <ul>
+                            <li>Project management</li>
+                            <li>Strong decision maker</li>
+                            <li>Complex problem solver</li>
+                            <li>Creative design</li>
+                            <li>Innovative</li>
+                            <li>Service-focused</li>
+                         </ul>
+                          
+                      
+                        
+                        <hr>
+                        <h3>Languages:</h3>
+                        <ul>
+                            <li>Sinhala: <progress max="100" value="95"> 95% </progress></li>
+                            <li>English: <progress max="100" value="70"> 70% </progress></li>
+                            <li>Japanese: <progress max="100" value="10"> 10% </progress></li>
+                        </ul>
+                            
+                        <hr>
+                        <h3>Personal Details:</h3>
+                        <ul>
+                            <li>Date of Birth : 1989.09.23</li>
+                            <li>Gender : Female</li>
+                            <li>Nationality : Sri Lankan</li>
+                            <li>Marital Status : Married</li>
+                        </ul>  
+                            
+			<hr>
+                        <h3>Hobbies:</h3>
+                        <ul>
+                            <li>Watching  English TV Series</li>
+                            <li>Reading Books</li>
+                            <li>Listening Music</li>
+							
+                        </ul>
+                        
+                       
+                        <h3>References:</h3>
+                        <ul>
+                            <strong>Miss. Prawina Studet</strong> <br>
+                            MSc. BSc. Assistant Lecturer at Sirindhorn School of Prosthetics and Orthotics
+Mahidol University, Bangkok 10700, Thailand <br>
+                            <i>Email:</i> <a href="prawina.stu@mahidol.edu"
+style="text-decoration: none;color:black">prawina.stu@mahidol.edu</a> <br>
+                            <i>Contact No:</i> tel:+66-81350-8564
+                        </ul> 
+                        <br>
+                        
+                        <ul>
+                            <b>Mr.Tullathorn Tulathran</b><br>
+                            MSc. BSc. Assistant Lecturer and Clinician at Sirindhorn School of Prosthetics and Orthotics
+Mahidol University, Bangkok 10700, Thailand.
+<br> 
+                            <i>Email:</i> <a href="tullathorn.tul@mahidol.edu"
+style="text-decoration: none;color:black">tullathorn.tul@mahidol.edu</a> <br>
+                            <i>Contact No:</i> 0906289083
+                        </ul>
+
+           
+           <td width="700px">
+		   
+                    <div class="right">
+                        <h1> &nbsp; Y.M.S.W.T.K.Jayasekara</h1>
+                        <p><b> &nbsp;I am a responsible, articulate and motivated person with a variety of skills and experiences in the government sector. My studies and my previous work experience have all been in medical felid as a prosthetist and orthotist and I am currently looking to progress my further studies and my career.</p></b>
+
+                        <div class="content">
+                            <h3 style="background-color:#4D869C; font-size:22px;"> &nbsp; Education</h3>
+
+                            <h4> &nbsp; Master's Degree</h4>
+                            <h5> &nbsp; The Kyoto College of Graduate Studies for Informatics / Kyoto, Japan / April, 2023 - Present</h5>
+                            <span> &nbsp; - Master's in Information Technology</span> <br>
+                            <span> &nbsp; - Globlainterpernaship </span>
+
+                            <br><br><br>
+
+                            <h4> &nbsp; Bacholor's Degree</h4>
+                            <h5> &nbsp; Mahidol University / Bachelor Degree (Category I in Prosthetics and Orthotics)
+Sirindhorn School of Prosthetics and Orthotics (SSPO) / 2016-2017</h5>
+                            <span> &nbsp; - Prosthetist and Orthotist p</span>
+
+                            <br> <br><br>
+                            
+                            <h4> &nbsp; Diploma</h4>
+                            <h5> &nbsp; Diploma Degree (Category II in Prosthetics and Orthotics)
+Sri Lanka School of Prosthetics and Orthotics (SLSPO), Sri Lanka</h5>
+                          
+                            
+                            <br> <br><br>
+
+                        </div>
+                        
+                       
+                                                    
+                         <div class="content">
+                            <h3 style="background-color:#4D869C; font-size:22px;"> &nbsp; Profesional Qualification</h3>
+
+                            
+                            <span> &nbsp; -2014 Clinical experience at Sri Lanka School of Prosthetics and Orthotics (SLSPO) and 
+Rheumatology and Rehabilitation Hospital- Ragama, Sri Lanka. </span> <br>
+                            <span> &nbsp; -2015 Clinical experience at Ampara General Hospital, Sri Lanka.</span> <br>
+                            <span> &nbsp; - 2017 Clinical experience at Mental and Physical Rehabilitation Center, Sri Lanka.
+ </span>
+
+                          
+                            
+                            <div class="content">
+                            <h3 style="background-color:#4D869C; font-size:22px;"> &nbsp; Addittonal Experience</h3>
+
+                            <span> &nbsp; - successfully completed a short course of National Certificate in Information 
+and Communication Technology. </span> <br>
+                            <span> &nbsp; - completed a 40-hour theoretical and practical training in the WHO wheelchair 
+Service training package-basic level. </span>
+                           
+						   
+                           <br><br><br>
+                           </div>
+                           
+                           
+              
+                    <footer><small><strong>M23W0122 (Y.M.S.W.T.K.Jayasekara)</strong></small></footer>
+					</center> </body> 
+					</html>
